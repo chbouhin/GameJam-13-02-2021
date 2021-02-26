@@ -2,17 +2,21 @@
 
 Télécharger le .ZIP ici : https://drive.google.com/file/d/1WLwemRoP05Fgks_29thHOHsej_i5BP9d/view?usp=sharing
 
+
 - Lancer le jeu
 
 Exécutez "Gorilla Survival.exe".
+
 
 - Jeu
 
 Jeu 3D dont le but est de survivre le plus longtemps possible à des vagues d'ennemis.
 
+
 - Date
 
 Celui-ci a était réalisé durant la Game Jam du 13 février 2021 en 48h.
+
 
 - Game Jam
 
