@@ -26,9 +26,9 @@ ZQSD ou Flèche : Déplacement
 
 Left Shift : Courir
 
-Clique Gauche : Viser
+Clique Gauche : Tirer
 
-Clique Droit : Tirer
+Clique Droit : Viser
 
 Echap : Retour au Menu
 
