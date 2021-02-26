@@ -4,6 +4,7 @@ Télécharger le .ZIP ici : https://drive.google.com/file/d/1ium-Yv-QYc-8lrtRBZq
 
 ---------------------------
 - Lancer le jeu
+
 Après avoir téléchargé et extrait les fichiers, exécutez "Gorilla Survival.exe".
 
 ---------------------------
