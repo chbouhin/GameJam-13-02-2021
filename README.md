@@ -18,7 +18,7 @@ Celui-ci a été réalisé durant la Game Jam du 13 février 2021 en 48h.
 Jeu 3D dont le but est de survivre le plus longtemps possible à des vagues d'ennemis.
 
 ---------------------------
-- Touche
+- Touches
 
 Espace : Sauter
 
