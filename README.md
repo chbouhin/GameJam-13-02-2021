@@ -21,9 +21,13 @@ Jeu 3D dont le but est de survivre le plus longtemps possible à des vagues d'en
 - Touche
 
 Espace : Sauter
+
 ZQSD ou Flèche : Déplacement
+
 Left Shift : Courir
+
 Clique Gauche : Viser
+
 Clique Droit : Tirer
 
 ---------------------------
