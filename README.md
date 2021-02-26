@@ -30,6 +30,8 @@ Clique Gauche : Viser
 
 Clique Droit : Tirer
 
+Echap : Retour au Menu
+
 ---------------------------
 - Game Jam
 
